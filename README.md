@@ -1,6 +1,4 @@
 # 🍀 About Me
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=OZIIJIN&show_icons=true&theme=radical)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=OZIIJIN)](https://github.com/OZIIJIN/github-readme-stats)
 ### Backend
 <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=white"/> <img src="https://img.shields.io/badge/java-007396?style=for-the-badge&logo=java&logoColor=white"> <img src="https://img.shields.io/badge/springboot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white">
 ### Devops
